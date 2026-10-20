@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+cbir_env/
+.venv/
+.env
+logs/
+*.log
